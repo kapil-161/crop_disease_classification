@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">Spinner Example</string>
+
+        <string-array name="numbers">
+            <item>Select Crops</item>
+            <item>Potato</item>
+            <item>Tomato</item>
+            <item>Pepper</item>
+            <item>Apple</item>
+        </string-array>
+
+</resources>
